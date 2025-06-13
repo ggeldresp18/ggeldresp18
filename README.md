@@ -30,9 +30,9 @@ Aqui va la descripción ...
 
 ## Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/Gavino_Geldres_Pinto-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tu-usuario/)
-<br>
-[![Email](https://img.shields.io/badge/gavinogeldresp@gmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gavinogeldresp@gmail.com)
-<br>
-[![Website](https://img.shields.io/badge/gavino.dev-Web-3F801D?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://gavino.dev)
+> [![LinkedIn](https://img.shields.io/badge/Gavino_Geldres_Pinto-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tu-usuario/)
+> <br>
+> [![Email](https://img.shields.io/badge/gavinogeldresp@gmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gavinogeldresp@gmail.com)
+> <br>
+> [![Website](https://img.shields.io/badge/gavino.dev-Web-3F801D?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://gavino.dev)
 
