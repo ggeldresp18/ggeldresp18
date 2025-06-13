@@ -17,14 +17,14 @@ Aqui va la descripción ...
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div name ="stats">
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggeldresp18&theme=radical"/>
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ggeldresp18&theme=radical"/>
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ggeldresp18&theme=radical"/>
 </div>
 
-## Contacto:
+## 📝 Contacto:
 
 >[![LinkedIn](https://img.shields.io/badge/Gavino_Geldres_Pinto-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tu-usuario/)
 ><br>
