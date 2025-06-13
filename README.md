@@ -55,6 +55,11 @@ Aqui va la descripción ...
 [![Curso Java](https://img.shields.io/github/stars/mouredev/hello-java?label=Curso%20Java%20desde%20cero&style=social)](https://github.com/mouredev/hello-java)
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adex-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adex-hub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adex-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ## Contacto y apoyo:
 
 [![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
