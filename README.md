@@ -1,10 +1,7 @@
 # Hola, mi nombre es Gavino Geldres 👋
 ### Freelance fullstack en constante formación 🚀
 
-![https://github.com/mouredev](./mouredev_github_profile.png)
-
-
-Soy ingeniero de software profesional desde 2010.
+Soy estudiante de ingeniería de sistemas...
 
 Aqui va la descripción ...
 
