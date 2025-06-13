@@ -12,7 +12,7 @@ Aqui va la descripción ...
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,postgres,maria" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,postgres" alt="Tech Stack"/>
   </a>
 </p>
 
