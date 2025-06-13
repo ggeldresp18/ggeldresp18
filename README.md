@@ -48,8 +48,8 @@ Aqui va la descripción ...
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ggeldresp18&theme=tokyonight)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ggeldresp18&theme=tokyonight_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ggeldresp18&theme=tokyonight_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ggeldresp18&theme=tokyonight)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ggeldresp18&theme=tokyonight)
 
 ## Contacto y apoyo:
 
