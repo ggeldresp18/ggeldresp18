@@ -30,8 +30,8 @@ Aqui va la descripción ...
 
 ## Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gavino_Geldres_Pinto-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![LinkedIn](https://img.shields.io/badge/Gavino_Geldres_Pinto-LinkedIn-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
 </br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/gavinogeldresp@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 </br>
-[![Web](https://img.shields.io/badge/Buy_Me_A_Coffee-Web-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
+[![Web](https://img.shields.io/badge/web.com-Web-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
