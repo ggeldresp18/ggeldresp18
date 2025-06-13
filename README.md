@@ -9,8 +9,8 @@ Aqui va la descripción ...
 ![Tech Stack](https://skillicons.dev/icons?i=java,nodejs,py,postgres,git,github)
 
 ## 🔎 Encuéntrame en:
->[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-3F801D?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
+>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gavino_Geldres_Pinto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![Web](https://img.shields.io/badge/Web-Web.com-3F801D?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
 ## 📊 GitHub Stats:
 <div name ="stats">
