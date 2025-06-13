@@ -10,7 +10,7 @@ Aqui va la descripción ...
 
 ## 💻 TECH STACK
 
-src="https://skillicons.dev/icons?i=java,nodejs,py,postgres"
+"https://skillicons.dev/icons?i=java,nodejs,py,postgres"
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
 > 
