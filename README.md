@@ -30,7 +30,7 @@ Aqui va la descripción ...
 
 ## Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/Gavino_Geldres_Pinto-LinkedIn-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![LinkedIn](https://img.shields.io/badge/Gavino_Geldres_Pinto-LinkedIn-0A66C2?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
 </br>
 [![Email](https://img.shields.io/badge/gavinogeldresp@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 </br>
