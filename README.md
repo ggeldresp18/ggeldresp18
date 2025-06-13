@@ -42,9 +42,11 @@ Aqui va la descripción ...
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ggeldresp18&theme=tokyonight)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ggeldresp18&theme=tokyonight)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ggeldresp18&theme=tokyonight)
+<div name ="stats">
+  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheshbabu11&theme=radical"/>
+  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maheshbabu11&theme=radical"/>
+  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maheshbabu11&theme=radical"/>
+</div>
 
 ## Contacto y apoyo:
 
