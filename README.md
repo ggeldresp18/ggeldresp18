@@ -6,16 +6,15 @@ Soy estudiante de ingeniería de sistemas...
 Aqui va la descripción ...
 
 ## 💻 Tech Stack
-
 ![Tech Stack](https://skillicons.dev/icons?i=java,nodejs,py,postgres,git,github)
 
+---
 
 ## 🔎 Encuéntrame en:
-
 >[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
 [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
-
+---
 
 ## 📊 GitHub Stats:
 <div name ="stats">
@@ -24,8 +23,9 @@ Aqui va la descripción ...
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ggeldresp18&theme=radical"/>
 </div>
 
-## 📝 Contacto:
+---
 
+## 📝 Contacto:
 >[![LinkedIn](https://img.shields.io/badge/Gavino_Geldres_Pinto-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tu-usuario/)
 ><br>
 >[![Email](https://img.shields.io/badge/gavinogeldresp@gmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gavinogeldresp@gmail.com)
