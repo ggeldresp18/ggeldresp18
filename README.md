@@ -34,4 +34,4 @@ Aqui va la descripción ...
 </br>
 [![Email](https://img.shields.io/badge/gavinogeldresp@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 </br>
-[![Web](https://img.shields.io/badge/web.com-Web-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
+[![Web](https://img.shields.io/badge/web.com-Web-58C61D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
