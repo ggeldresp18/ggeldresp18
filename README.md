@@ -10,10 +10,6 @@ Aqui va la descripción ...
 ![Tech Stack](https://skillicons.dev/icons?i=java,nodejs,py,postgres,git,github)
 
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
-> 
-> ⭐️ [GitHub star](https://stars.github.com/profiles/mouredev/)
-
 ## Encuéntrame en:
 
 >[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
