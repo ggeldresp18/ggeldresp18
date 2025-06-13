@@ -26,7 +26,7 @@ Aqui va la descripción ...
 [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
 
-# Algunos proyectos de la comunidad
+# Algunos proyectos que realicé
 
 ## Python desde cero: Curso gratis
 
