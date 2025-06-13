@@ -7,7 +7,7 @@ Aqui va la descripción ...
 
 ## 💻 TECH STACK
 
-![Tech Stack](https://skillicons.dev/icons?i=java,nodejs,py,postgres,git)
+![Tech Stack](https://skillicons.dev/icons?i=java,nodejs,py,postgres,git,github)
 
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
