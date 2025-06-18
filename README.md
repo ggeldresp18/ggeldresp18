@@ -1,6 +1,6 @@
 # Hola, mi nombre es Gavino Geldres 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=207194&width=435&lines=Backend+developer+en+formaci%C3%B3n+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=207194&width=435&lines=Web+and+mobile+developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 #### Soy un estudiante de Ingeniería de Sistemas en constante aprendizaje interesado por el desarrollo backend. 
 
