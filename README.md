@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=207194&width=435&lines=Web+and+mobile+developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-#### Soy un estudiante de Ingeniería de Sistemas en constante aprendizaje interesado por el desarrollo backend. 
+#### Soy estudiante de Ingeniería de Sistemas, en constante formación y con un marcado interés por el desarrollo web y móvil, especialmente enfocado en el área backend. 
 
 ---
 
