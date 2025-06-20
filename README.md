@@ -7,29 +7,23 @@
 ---
 
 ## 💻 Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=java,nodejs,py,postgres,git,github,postman,linux,js,ts,html,css,flutter,dart,docker,kotlin,swift,figma,firebase)
+
+---
+
+### 🛠️ Backend
+![Backend Tech](https://skillicons.dev/icons?i=java,nodejs,py,postgres,git,github,postman,linux,docker)
+
+---
+
+### 🌐 Web
+![Frontend Web Tech](https://skillicons.dev/icons?i=js,ts,html,css,figma)
+
+---
+
+### 📱 Móvil
+![Frontend Mobile Tech](https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase)
 
 
-## 💻 Tech Stack
-
-<div style="display: flex; justify-content: space-between; text-align: center; gap: 20px;">
-
-  <div style="flex: 1;">
-    <h3>🛠️ Backend</h3>
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,postgres,git,github,postman,linux,docker" />
-  </div>
-
-  <div style="flex: 1;">
-    <h3>🌐 Frontend Web</h3>
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,figma" />
-  </div>
-
-  <div style="flex: 1;">
-    <h3>📱 Frontend Móvil</h3>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase" />
-  </div>
-
-</div>
 
 
 ## 🔎 Encuéntrame en:
