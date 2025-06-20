@@ -11,7 +11,7 @@
 ---
 
 ### 🛠️ Backend
-![Backend Tech](https://skillicons.dev/icons?i=java,nodejs,py,php,postgres,git,github,postman,linux,docker)
+![Backend Tech](https://skillicons.dev/icons?i=java,nodejs,py,php,postgres,sqlite,firebase,git,github,postman,linux,docker)
 
 ---
 
