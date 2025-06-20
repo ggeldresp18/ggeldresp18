@@ -16,11 +16,11 @@
 ---
 
 ### 🌐 Web
-![Frontend Web Tech](https://skillicons.dev/icons?i=js,ts,html,css,figma)
+![Frontend Web Tech](https://skillicons.dev/icons?i=js,ts,html,css,figma,tailwind,boostrap)
 
 ---
 
-### 📱 Móvil
+### 📱 Mobile
 ![Frontend Mobile Tech](https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase)
 
 
