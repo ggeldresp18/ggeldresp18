@@ -9,6 +9,29 @@
 ## 💻 Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=java,nodejs,py,postgres,git,github,postman,linux,js,ts,html,css,flutter,dart,docker,kotlin,swift,figma,firebase)
 
+
+## 💻 Tech Stack
+
+<div style="display: flex; justify-content: space-between; text-align: center; gap: 20px;">
+
+  <div style="flex: 1;">
+    <h3>🛠️ Backend</h3>
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,postgres,git,github,postman,linux,docker" />
+  </div>
+
+  <div style="flex: 1;">
+    <h3>🌐 Frontend Web</h3>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,figma" />
+  </div>
+
+  <div style="flex: 1;">
+    <h3>📱 Frontend Móvil</h3>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase" />
+  </div>
+
+</div>
+
+
 ## 🔎 Encuéntrame en:
 >[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gavino_Geldres_Pinto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
 [![Web](https://img.shields.io/badge/Web-Web.com-3F801D?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://gavino-geldres.vercel.app/)
