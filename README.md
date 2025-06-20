@@ -21,7 +21,7 @@
 ---
 
 ### 📱 Mobile
-![Frontend Mobile Tech](https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase)
+![Frontend Mobile Tech](https://skillicons.dev/icons?i=flutter,dart,kotlin,swift)
 
 
 
