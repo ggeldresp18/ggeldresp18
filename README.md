@@ -16,7 +16,7 @@
 ---
 
 ### 🌐 Web
-![Frontend Web Tech](https://skillicons.dev/icons?i=js,ts,html,css,figma,tailwind,bootstrap)
+![Frontend Web Tech](https://skillicons.dev/icons?i=js,ts,html,css,figma,tailwind,bootstrapreact,angular)
 
 ---
 
