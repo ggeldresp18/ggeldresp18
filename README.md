@@ -17,6 +17,7 @@
 🔧 Me gusta construir soluciones escalables, bien estructuradas y con foco en la eficiencia, integrando tecnologías modernas para responder a los retos del desarrollo actual.
 
 📚 Siempre aprendiendo y mejorando.
+
 🛠️ Código limpio. Arquitectura sólida. Backend con propósito.
 
 ---
