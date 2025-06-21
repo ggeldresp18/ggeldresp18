@@ -18,7 +18,7 @@
 
 📚 Siempre aprendiendo y mejorando.
 
-🛠️ Código limpio. Arquitectura sólida. Backend con propósito.
+🛠️ Código limpio. Arquitectura sólida.
 
 ---
 
