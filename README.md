@@ -39,7 +39,7 @@
 
 
 ## 🔎 Encuéntrame en:
->[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gavino_Geldres_Pinto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gavino_Geldres_Pinto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/gavino-gabriel-geldres-pinto)
 [![Web](https://img.shields.io/badge/Web-Web.com-3F801D?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://gavino-geldres.vercel.app/)
 
 ## 📊 GitHub Stats:
@@ -50,7 +50,7 @@
 </div>
 
 ## 📝 Contacto:
->[![LinkedIn](https://img.shields.io/badge/Gavino_Geldres_Pinto-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tu-usuario/)
+>[![LinkedIn](https://img.shields.io/badge/Gavino_Geldres_Pinto-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/gavino-gabriel-geldres-pinto)
 ><br>
 >[![Email](https://img.shields.io/badge/gavinogeldresp@gmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gavinogeldresp@gmail.com)
 
