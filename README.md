@@ -2,7 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=207194&width=435&lines=Web+and+mobile+developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-#### Soy estudiante de Ingeniería de Sistemas, en constante formación y con un marcado interés por el desarrollo web y móvil, especialmente enfocado en el área backend. 
+#### 🚀 Estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software, con enfoque en el backend. Desarrollo aplicaciones web y móviles, aplicando buenas prácticas, arquitectura limpia y patrones de diseño como MVC y MVVM.
+
+💻 Trabajo con APIs REST y GraphQL, utilizando frameworks robustos como:
+
+🐍 Django
+
+🪢 NestJS
+
+🐘 Laravel
+
+☕ Spring Boot
+
+🔧 Me gusta construir soluciones escalables, bien estructuradas y con foco en la eficiencia, integrando tecnologías modernas para responder a los retos del desarrollo actual.
+
+📚 Siempre aprendiendo y mejorando.
+🛠️ Código limpio. Arquitectura sólida. Backend con propósito.
 
 ---
 
