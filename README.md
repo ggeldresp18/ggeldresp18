@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Backend
-![Backend Tech](https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,py,django,php,laravel,postgres,sqlite,firebase,git,github,postman,linux)
+![Backend Tech](https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,py,django,postgres,sqlite,firebase,git,github,postman,linux)
 
 ### 🌐 Web
 ![Frontend Web Tech](https://skillicons.dev/icons?i=js,ts,html,css,react,angular)
