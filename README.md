@@ -15,7 +15,7 @@
 ---
 
 ### 🌐 Web
-![Web Tech](https://skillicons.dev/icons?i=spring,nestjs,django,react,angular,typescript,postgres,sqlite,git,github)
+![Web Tech](https://skillicons.dev/icons?i=spring,nestjs,django,react,angular,typescript,postgres,git,github)
 
 
 ### 📱 Mobile
