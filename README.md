@@ -19,7 +19,7 @@
 
 
 ### 📱 Mobile
-![Mobile Tech](https://skillicons.dev/icons?i=flutter,dart,kotlin,swift)
+![Mobile Tech](https://skillicons.dev/icons?i=flutter,react,kotlin,swift)
 
 ---
 
