@@ -15,7 +15,7 @@
 ---
 
 ### 🌐 Web
-![Web Tech](https://skillicons.dev/icons?i=nestjs,expressjs,fastifyjs,django,react,angular,typescript,postgres,git,github)
+![Web Tech](https://skillicons.dev/icons?i=nestjs,expressjs,fastify,django,react,angular,typescript,postgres,git,github)
 
 
 ### 📱 Mobile
