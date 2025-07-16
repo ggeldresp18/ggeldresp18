@@ -1,6 +1,7 @@
 # Hola, mi nombre es Gavino Geldres 👋
 
 ---
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ggeldresp18&theme=tokyonight_duo&hide_border=true&date_format=M%20j&ring=F97316&fire=F97316&curr_streak_num=FFFFFF&curr_streak_text=F97316)](https://git.io/streak-stats)
 ---
 
@@ -14,9 +15,8 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technologies
 
----
 
 ![Tech Stack](https://skillicons.dev/icons?i=nestjs,expressjs,fastapi,flask,django,react,angular,postgres,git,github,flutter,react,kotlin,swift)
 
