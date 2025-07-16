@@ -1,6 +1,6 @@
 # Hola, mi nombre es Gavino Geldres 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=207194&width=435&lines=Web+and+mobile+developer+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ggeldresp18&theme=tokyonight_duo&hide_border=true&date_format=M%20j&ring=F97316&fire=F97316&curr_streak_num=FFFFFF&curr_streak_text=F97316)](https://git.io/streak-stats)
 
 ---
 
