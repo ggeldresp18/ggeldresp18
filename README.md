@@ -14,12 +14,7 @@
 
 ---
 
-### 🌐 Web
-![Web Tech](https://skillicons.dev/icons?i=nestjs,expressjs,fastapi,flask,django,react,angular,postgres,git,github)
-
-
-### 📱 Mobile
-![Mobile Tech](https://skillicons.dev/icons?i=flutter,react,kotlin,swift)
+![Tech Stack](https://skillicons.dev/icons?i=nestjs,expressjs,fastapi,flask,django,react,angular,postgres,git,github,flutter,react,kotlin,swift)
 
 ---
 
