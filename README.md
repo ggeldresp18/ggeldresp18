@@ -16,7 +16,6 @@
 
 ## 💻 Technologies
 
-<br/>
 <table width="100%">
   <tbody>
     <tr>
