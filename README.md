@@ -8,9 +8,7 @@
 
 #### 🚀 Estudiante de Ingeniería de Sistemas con gran interés por el desarrollo de software, con enfoque en el backend. Desarrollo aplicaciones web y móviles.
 
-🔧 Me gusta construir soluciones escalables, bien estructuradas y con foco en la eficiencia, integrando tecnologías modernas para responder a los retos del desarrollo actual.
-
-📚 Siempre aprendiendo y mejorando.
+📚 Me gusta siempre aprender cosas nuevas en internet :)
 
 ---
 
