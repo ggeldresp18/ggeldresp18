@@ -79,5 +79,6 @@
 ><br>
 >[![X](https://img.shields.io/badge/X-@gavinogelp2518-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gavinogelp2518)
 ><br>
+>[![Portfolio](https://img.shields.io/badge/Portfolio-gavino--geldres.vercel.app-3F801D?style=for-the-badge&logo=website&logoColor=white)](https://gavino-geldres.vercel.app/)
+><br>
 >[![Email](https://img.shields.io/badge/Email-gavinogeldresp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gavinogeldresp@gmail.com)
-
