@@ -76,5 +76,7 @@
 ## 📝 Contacto:
 >[![LinkedIn](https://img.shields.io/badge/Gavino_Geldres_Pinto-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/gavino-gabriel-geldres-pinto)
 ><br>
+>[![X](https://img.shields.io/badge/@gavinogelp2518-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/gavinogelp2518)
+><br>
 >[![Email](https://img.shields.io/badge/gavinogeldresp@gmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gavinogeldresp@gmail.com)
 
