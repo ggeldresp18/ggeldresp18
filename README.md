@@ -73,10 +73,11 @@
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ggeldresp18&theme=radical"/>
 </div>
 
+
 ## 📝 Contacto:
->[![LinkedIn](https://img.shields.io/badge/Gavino_Geldres_Pinto-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/gavino-gabriel-geldres-pinto)
+>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gavino_Geldres_Pinto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gavino-gabriel-geldres-pinto)
 ><br>
->[![X](https://img.shields.io/badge/@gavinogelp2518-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/gavinogelp2518)
+>[![X](https://img.shields.io/badge/X-@gavinogelp2518-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gavinogelp2518)
 ><br>
->[![Email](https://img.shields.io/badge/gavinogeldresp@gmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gavinogeldresp@gmail.com)
+>[![Email](https://img.shields.io/badge/Email-gavinogeldresp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gavinogeldresp@gmail.com)
 
