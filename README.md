@@ -46,16 +46,7 @@
              
           <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" height="40"/></a>
       </td>
-      <td align="center" width="25%" valign="top">
-        <h3>DevOps</h3>
-          <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40"/></a>
-             
-          <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40"/></a>
-             
-          <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="40"/></a>
-             
-          <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40"/></a>
-      </td>
+
     </tr>
   </tbody>
 </table>
