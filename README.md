@@ -47,7 +47,6 @@
           <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" height="40"/></a>
       </td>
 
-    </tr>
   </tbody>
 </table>
 
