@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=207194&width=435&lines=Python+and+JavaScript+developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ggeldresp18&theme=submarine-flowers&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
